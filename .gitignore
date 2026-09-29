@@ -53,3 +53,5 @@ grafana_data/
 load-test/results.json
 load-test/*.csv
 load-test/*.json
+
+PROJECT_OVERVIEW.md
